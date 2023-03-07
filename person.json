@@ -1,0 +1,9 @@
+{
+      "person-name": "Anton",
+      "person_age": 32,
+      "person_devices": {
+                              "devices_1":"iPone 12 pro",
+                              "devices_2":"Samsung A52"
+       }
+
+}
